@@ -1,0 +1,30 @@
+body{
+    background-image:linear-gradient(to top, #a1c4fd, #c2e9fb);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:black;
+    font-style:italic;
+    font-size:  50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    text-align: center;
+}
+.myinput{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    margin:50px;
+    text-align: center;
+    
+    
+}
+.but{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin:50px;
+    color: black ;
+
+}
